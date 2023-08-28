@@ -1,4 +1,4 @@
-# Polish-Voice-Assistant-
+# Polish-Voice-Assistant
 <h3><b>Polish version  of Voice Home Assistant.</b></h3>
 
 <h3><b>Functionalities: </b></h3>
