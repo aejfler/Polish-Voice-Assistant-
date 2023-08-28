@@ -8,7 +8,7 @@
    <li> updating shopping list,</li>
    <li> turning on and off music on Spotify (Spotify API).</li>
 
-
+<hr>
 In order to run a program you need to create your virtual environment and install requirements form requirements.txt
 
 Next step is to run the script (main.py) and it will fore you to log in to your google account.
