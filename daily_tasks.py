@@ -22,7 +22,7 @@ def delete_shopping_list():
 def daily_task():
     delete_shopping_list()
 
-# Uruchomienie zadania codziennie o godzinie 3:00
+# the task runs daily at 3
 schedule.every().day.at("03:00").do(daily_task)
 print("Daily task of deleting shopping list run correctly!")
 
